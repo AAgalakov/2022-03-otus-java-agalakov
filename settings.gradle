@@ -1,0 +1,2 @@
+rootProject.name = 'otusJavaAgalakov'
+include 'hw01-gradle'
